@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Norman Chang
 
-<!--
-**PapaChang07/PapaChang07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering graduate from Cal Poly SLO passionate about building scalable software and mentoring the next generation of developers. I've worked on educational tools, full-stack apps, and PLC automation systems — and love turning complex problems into intuitive experiences.
 
-Here are some ideas to get you started:
+## 🔍 What I'm About
+- 🎓 Ex-Software Intern | Mentored high school robotics students
+- 🔧 Tech I'm using: React, Node.js, PostgreSQL, C++, Python
+- 🧠 Currently learning: Docker, TypeScript
+- 💬 Ask me about: software mentorship, tech education, and hackathons
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/normchang)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Highlighted Projects
+
