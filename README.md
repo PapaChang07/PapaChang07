@@ -10,5 +10,6 @@ I'm a Computer Engineering graduate from Cal Poly SLO passionate about building 
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/normchang)
 
 ## 📌 Highlighted Projects
+- [Job Application Tracker](https://github.com/PapaChang07/job-application-tracker): A full-stack job application tracker with analytics to monitor application status, track outcomes, and visualize progress over time.
 - [Cal Poppy – Q&A App](https://github.com/PapaChang07/SP_CalPoppy): A voice-interactive Q&A web app for Swanton Ranch visitors, built with React and Raspberry Pi to improve accessibility and engagement.
 - [To-Do List](https://github.com/PapaChang07/CPE307_TODO): A full-stack to-do list web app built with JavaScript, Node.js, and PostgreSQL to manage tasks with authentication and persistent storage.
