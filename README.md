@@ -1,15 +1,42 @@
-# Hi, I'm Norman Chang
+Hi, I'm Norman Chang 👋
 
-I'm a Computer Engineering graduate from Cal Poly SLO passionate about building scalable software and mentoring the next generation of developers. I've worked on educational tools, full-stack apps, and PLC automation systems and I love turning complex problems into intuitive experiences. So hit me up!
+I'm a Computer Engineering graduate from Cal Poly SLO who enjoys building practical, user-focused software. I’m especially interested in full-stack development, AI-powered tools, and projects that turn messy real-life problems into simple, useful experiences.
 
-## What I'm About
-- Instructional Aide | Ex-Software Intern | Mentored high school robotics students
-- Tech I'm using: React, Node.js, PostgreSQL, C++, Python
-- Currently learning: Docker, TypeScript
-- Ask me about: software mentorship, tech education, and hackathons
-- Let's connect: [LinkedIn](https://www.linkedin.com/in/normchang)
+My background spans software engineering, technical education, robotics mentorship, and hands-on technical installation work. I like building things that are not just technically functional, but actually helpful to people.
 
-## Highlighted Projects
-- [Job Application Tracker](https://github.com/PapaChang07/job-application-tracker): A full-stack job application tracker with analytics to monitor application status, track outcomes, and visualize progress over time.
-- [Cal Poppy – Q&A App](https://github.com/PapaChang07/SP_CalPoppy): A voice-interactive Q&A web app for Swanton Ranch visitors, built with React and Raspberry Pi to improve accessibility and engagement.
-- [To-Do List](https://github.com/PapaChang07/CPE307_TODO): A full-stack to-do list web app built with JavaScript, Node.js, and PostgreSQL to manage tasks with authentication and persistent storage.
+What I'm About
+Full-stack development with React, Node.js, Express, and PostgreSQL
+AI-assisted applications and practical product ideas
+Turning personal problems into usable software projects
+Mentoring students and helping others grow in tech
+Building clean, intuitive experiences from complex workflows
+Tech I'm Using
+
+Frontend: React, JavaScript, HTML, CSS
+Backend: Node.js, Express, PostgreSQL
+Languages: Python, C++, JavaScript
+Tools: Git, GitHub, REST APIs, OpenAI API, Vite
+Currently Learning: TypeScript, Docker, deployment workflows
+
+Highlighted Projects
+Outfit Oracle
+
+An AI-powered wardrobe assistant that generates outfit recommendations based on occasion, weather, temperature, vibe, and a real wardrobe inventory. Built with React, Node.js, Express, and the OpenAI API.
+
+Job Application Tracker
+
+A full-stack job application tracker with analytics to monitor application status, track outcomes, and visualize progress over time.
+
+Cal Poppy – Q&A App
+
+A voice-interactive Q&A web app for Swanton Ranch visitors, built with React and Raspberry Pi to improve accessibility and engagement.
+
+To-Do List
+
+A full-stack to-do list web app built with JavaScript, Node.js, and PostgreSQL to manage tasks with authentication and persistent storage.
+
+Let's Connect
+
+I'm always open to talking about software projects, AI tools, mentorship, tech education, and building practical products.
+
+LinkedIn
