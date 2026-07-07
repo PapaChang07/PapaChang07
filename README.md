@@ -39,4 +39,4 @@ Let's Connect
 
 I'm always open to talking about software projects, AI tools, mentorship, tech education, and building practical products.
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/normchang/)
